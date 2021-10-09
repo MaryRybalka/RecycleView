@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">testtask</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="large_text">
+        <item>1 Item</item>
+        <item>2 Item</item>
+        <item>3 Item</item>
+        <item>4 Item</item>
+        <item>5 Item</item>
+        <item>6 Item</item>
+        <item>7 Item</item>
+        <item>8 Item</item>
+        <item>9 Item</item>
+        <item>10 Item</item>
+        <item>11 Item</item>
+        <item>12 Item</item>
+        <item>13 Item</item>
+        <item>14 Item</item>
+        <item>15 Item</item>
+        <item>16 Item</item>
+        <item>17 Item</item>
+        <item>18 Item</item>
+        <item>19 Item</item>
+        <item>20 Item</item>
+        <item>21 Item</item>
+        <item>22 Item</item>
+    </string-array>
+
+    <string-array name="small_text">
+        <item>1 small description</item>
+        <item>2 small description</item>
+        <item>3 small description</item>
+        <item>4 small description</item>
+        <item>5 small description</item>
+        <item>6 small description</item>
+        <item>7 small description</item>
+        <item>8 small description</item>
+        <item>9 small description</item>
+        <item>10 small description</item>
+        <item>11 small description</item>
+        <item>12 small description</item>
+        <item>13 small description</item>
+        <item>14 small description</item>
+        <item>15 small description</item>
+        <item>16 small description</item>
+        <item>17 small description</item>
+        <item>18 small description</item>
+        <item>19 small description</item>
+        <item>20 small description</item>
+        <item>21 small description</item>
+        <item>22 small description</item>
+    </string-array>
+</resources>
